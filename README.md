@@ -20,6 +20,6 @@
 - [Matplotlib Tutorial (Beginner)]()
 - [Parallel Python: Analyzing Large Datasets (Intermediate)](https://github.com/mrocklin/scipy-2016-parallel)
 - [Scikit-image: Image analysis in Python (Intermediate)](https://github.com/amueller/scipy-2016-sklearn)
-- [Analyzing and Manipulating Data with Pandas (Beginner)]()
+- [Analyzing and Manipulating Data with Pandas (Beginner)](https://github.com/jonathanrocher/pandas_tutorial)
 - [Scalable Hierarchical Parallel Computing (Intermediate)](https://github.com/mmckerns/tuthpc)
 - [Geographic Data Science with PySAL and the pydata stack (Beginner)](https://github.com/darribas/gds_scipy16)

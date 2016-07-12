@@ -17,7 +17,7 @@
 <hr>
 - [Time Series Analysis with Python (Intermediate)](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython)
 - [Machine Learning with scikit-learn (Intermediate)](https://github.com/amueller/scipy-2016-sklearn)
-- [Matplotlib Tutorial (Beginner)]
+- [Matplotlib Tutorial (Beginner)](https://github.com/rougier/matplotlib-tutorial)
 - [Parallel Python: Analyzing Large Datasets (Intermediate)](https://github.com/mrocklin/scipy-2016-parallel)
 - [Scikit-image: Image analysis in Python (Intermediate)]
 - [Analyzing and Manipulating Data with Pandas (Beginner)](https://github.com/jonathanrocher/pandas_tutorial)

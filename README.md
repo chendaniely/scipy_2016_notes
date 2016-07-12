@@ -8,7 +8,7 @@
 <hr>
 - [Network Science and Statistics: Fundamentals and Applications (Intermediate)](https://github.com/ericmjl/Network-Analysis-Made-Simple)
 - [Deep Learning for Image Recognition (Beginner)](https://github.com/rouseguy/scipyUS2016_dl-image)
-- [NumPy (Beginner)]
+- [NumPy (Beginner)](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2016)
 - [Symbolic Compution with Python using SymPy (Beginner)](https://github.com/sympy/scipy-2016-tutorial)
 - [Bokeh for Data Applications and Visualization (Intermediate)](https://github.com/bokeh/bokeh-notebooks)
 - [Simulating Robot, Vehicle, Spacecraft, and Animal Motion with Python (Advanced)]

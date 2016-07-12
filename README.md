@@ -15,7 +15,7 @@
 - [Data Science is Software: Developer #lifehacks for the Python Data Scientist (Intermediate)](https://github.com/pjbull/data-science-is-software)
 - [Numba: Tell those C++ bullies to get lost (Intermediate)]
 <hr>
-- [Time Series Analysis with Python (Intermediate)]
+- [Time Series Analysis with Python (Intermediate)](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython)
 - [Machine Learning with scikit-learn (Intermediate)](https://github.com/amueller/scipy-2016-sklearn)
 - [Matplotlib Tutorial (Beginner)]
 - [Parallel Python: Analyzing Large Datasets (Intermediate)](https://github.com/mrocklin/scipy-2016-parallel)

@@ -4,7 +4,7 @@
 
 - [Software Carpentry Instructor Training](https://swcarpentry.github.io/instructor-training/)
 <hr>
-- [Software Carpentry Scientific Python Course Part 1 (Beginner)](https://github.com/katyhuff/2016-07-11-scipy)
+- [Software Carpentry Scientific Python Course (Beginner)](https://github.com/katyhuff/2016-07-11-scipy)
 <hr>
 - [Network Science and Statistics: Fundamentals and Applications (Intermediate)](https://github.com/ericmjl/Network-Analysis-Made-Simple)
 - [Deep Learning for Image Recognition (Beginner)](https://github.com/rouseguy/scipyUS2016_dl-image)

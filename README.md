@@ -11,7 +11,7 @@
 - [NumPy (Beginner)](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2016)
 - [Symbolic Compution with Python using SymPy (Beginner)](https://github.com/sympy/scipy-2016-tutorial)
 - [Bokeh for Data Applications and Visualization (Intermediate)](https://github.com/bokeh/bokeh-notebooks)
-- [Simulating Robot, Vehicle, Spacecraft, and Animal Motion with Python (Advanced)]
+- [Simulating Robot, Vehicle, Spacecraft, and Animal Motion with Python (Advanced)](https://github.com/pydy/pydy-tutorial-human-standing)
 - [Data Science is Software: Developer #lifehacks for the Python Data Scientist (Intermediate)](https://github.com/pjbull/data-science-is-software)
 - [Numba: Tell those C++ bullies to get lost (Intermediate)](https://github.com/barbagroup/numba_tutorial_scipy2016)
 <hr>

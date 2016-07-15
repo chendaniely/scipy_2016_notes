@@ -34,3 +34,18 @@
   1. groutr/conda-tools
 12. matplotlib 2.0
   1. matplotlib.org/2.0.0b2
+
+
+## Day 2
+1. steno3d.com
+2. insight
+    1. getting phds to work on real world problems
+    2. mfcc coefficients (spectral)
+    3. sliding windows
+    4. PCA
+    5. bottom up clustering
+3. python compilers
+4. HDF5
+  1. 1.10 (backwards incompatible)
+5. dask workers in ipython, woot!
+6. metric preserving image embedding

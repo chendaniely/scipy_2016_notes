@@ -21,6 +21,6 @@
 - [Parallel Python: Analyzing Large Datasets (Intermediate)](https://github.com/mrocklin/scipy-2016-parallel)
     - The Google compute clusters used during the workshop may not work in the future.
 - [Scikit-image: Image analysis in Python (Intermediate)](https://github.com/scikit-image/skimage-tutorials/blob/master/2016-scipy/000_index.ipynb)
-- [Analyzing and Manipulating Data with Pandas (Beginner)](https://github.com/jonathanrocher/pandas_tutorial)
+- [Analyzing and Manipulating Data with Pandas (Beginner)](https://github.com/jonathanrocher/pandas_tutorial) ([Video](https://www.youtube.com/watch?v=6ohWS7J1hVA&index=8&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6))
 - [Scalable Hierarchical Parallel Computing (Intermediate)](https://github.com/mmckerns/tuthpc)
 - [Geographic Data Science with PySAL and the pydata stack (Beginner)](https://github.com/darribas/gds_scipy16)

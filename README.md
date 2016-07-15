@@ -38,6 +38,14 @@
     - https://github.com/jhamrick/nbflow
     - https://github.com/jhamrick/nbflow-example
 
+## Day 2
+
+- JupyterLab: Building Blocks for Interactive Computing
+    - slides: http://archive.ipython.org/media/SciPy2016JupyterLab.pdf
+    - video: https://www.youtube.com/watch?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6&v=Ejh0ftSjk6g
+    - blog post: http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/
+    - installation typo: conda install -c conda-forge jupyterlab
+
 ## Day 3
 
 - Tell me Something I Don't Know: Analyzing OkCupid Profiles

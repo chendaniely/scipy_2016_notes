@@ -38,6 +38,12 @@
     - https://github.com/jhamrick/nbflow
     - https://github.com/jhamrick/nbflow-example
 
+## Day 3
+
+- Tell me Something I Don't Know: Analyzing OkCupid Profiles
+    - https://github.com/juanshishido/okcupid
+    - https://github.com/juanshishido/scipy_proceedings
+
 # Keynotes
 
 ## Hanna Wallach @hannawallach http://dirichlet.net/

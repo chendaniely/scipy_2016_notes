@@ -36,6 +36,8 @@
   1. matplotlib.org/2.0.0b2
 
 
+
+
 ## Day 2
 1. steno3d.com
 2. insight
@@ -49,3 +51,33 @@
   1. 1.10 (backwards incompatible)
 5. dask workers in ipython, woot!
 6. metric preserving image embedding
+
+## Day 3
+
+1. security
+  1. bandit
+  2. wargames
+  3. CTFs
+  4. input validation
+2. doitlive
+  1. changing history in mecurial
+  2. www.gerg.ca/evolve
+3. genapp
+4. anagram.py
+5. Numpy 1.11 and beyond
+6. Lightning
+  1. NLDN (national lightning detection network)
+  2. SpatialVx in R
+  3. github.com/jsignell
+7. bit.ly/elegantscipy
+8. GADFLY
+  1. github.ocm/hummel/gadfly
+9. What if
+  1. github.com/scikit-bukld
+  2. python-cmake-build-system
+10. Generated Functions
+  1. borrow ideas from julia
+11. Interactive Jupyter widgets 
+  1. ipython/ipywidgets
+  2. bloomberg/bqplot
+    1. jupyer d3 bridge

@@ -24,3 +24,28 @@
 - [Analyzing and Manipulating Data with Pandas (Beginner)](https://github.com/jonathanrocher/pandas_tutorial) ([Video](https://www.youtube.com/watch?v=6ohWS7J1hVA&index=8&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6))
 - [Scalable Hierarchical Parallel Computing (Intermediate)](https://github.com/mmckerns/tuthpc)
 - [Geographic Data Science with PySAL and the pydata stack (Beginner)](https://github.com/darribas/gds_scipy16)
+
+# Talks
+
+## Day 1
+
+- JupyterHub as an Interactive Supercomputing Gateway
+    - https://github.com/cwaldbieser/jhub_remote_user_authenticator
+    - https://github.com/mbmilligan/batchspawner
+- Experiments as Iterators: asyncio
+    - https://github.com/danielballan/bluesky-talk
+- Reproducible, One-Button Workflows with the Jupyter Notebook and Scons
+    - https://github.com/jhamrick/nbflow
+    - https://github.com/jhamrick/nbflow-example
+
+# Keynotes
+
+## Hanna Wallach @hannawallach http://dirichlet.net/
+
+- https://github.com/hannawallach/python-lda
+- https://github.com/hannawallach/cmpsci691bm
+- http://mallet.cs.umass.edu/topics.php
+- https://radimrehurek.com/gensim/
+- http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html
+- https://github.com/aschein/bptf
+- http://www.fatml.org/

@@ -54,6 +54,10 @@
 
 # Keynotes
 
+## Brian Granger
+
+- https://github.com/ellisonbg/altair
+
 ## Hanna Wallach @hannawallach http://dirichlet.net/
 
 - https://github.com/hannawallach/python-lda
